@@ -1,0 +1,62 @@
+.cor{
+  background-color: #1C2A3A;
+  height: 70vw;
+}
+.app{
+  margin-top: 10vw;
+  color: white;
+  font-size: 4vw;
+}
+.land{
+  color: white;
+  font-size: 4vw;
+}
+.logo{
+  margin-left: 2vw;
+  margin-top: 5vw;
+}
+.mar{
+  color: white;
+  margin-left: 1vw;
+  margin-top: 6vw;
+  font-size: 1.5vw;
+}
+.mar-2{
+  color: white;
+  margin-left: 1vw;
+  margin-top: 1.5vw;
+  font-size: 1.5vw;
+}
+.mar-3{
+  color: white;
+  margin-left: 1vw;
+  margin-top: 1.5vw;
+  font-size: 1.5vw;
+}
+.mar-4{
+  color: white;
+  margin-left: 1vw;
+  margin-top: 1.5vw;
+  font-size: 1.5vw;
+}
+.img-size{
+  width: 9vw;
+  margin-left: 10vw;
+  margin-top: 9vw;
+}
+.img-size-1{
+  width: 9vw;
+  margin-left: 4vw;
+  margin-top: 9vw;
+}
+.img-size-2{
+  width: 9vw;
+  margin-left: 4vw;
+  margin-top: 9vw;
+}
+.grey{
+  background-color: #E5EFEB;
+  width: 50vw;
+  hieght: 50vw;
+}
+
